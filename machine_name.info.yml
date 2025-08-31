@@ -1,0 +1,5 @@
+name: Machine Name
+description: Provides a machine name field.
+package: Field types
+core_version_requirement: ^8 || ^9 || ^10 || ^11
+type: module

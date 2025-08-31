@@ -1,0 +1,7 @@
+name: 'Machine Name test'
+type: module
+description: 'Support module for Machine Name module testing.'
+package: Testing
+version: VERSION
+dependencies:
+  - machine_name:machine_name

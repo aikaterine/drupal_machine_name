@@ -1,0 +1,10 @@
+field.widget.settings.machine_name:
+  type: mapping
+  label: 'Text field display format settings'
+  mapping:
+    editable:
+      type: boolean
+      label: 'Editable'
+    unique:
+      type: boolean
+      label: 'Unique'
