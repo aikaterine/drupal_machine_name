@@ -1,0 +1,20 @@
+{
+    "name": "aikaterine/drupal_machine_name",
+    "description": "Fork of the Drupal Machine Name module with D11 compatibility.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {
+      "drupal/core": "^10 || ^11"
+    },
+    "autoload": {
+      "psr-4": {
+        "Drupal\\machine_name\\": "src/"
+      }
+    },
+    "extra": {
+      "drupal": {
+        "module": true
+      }
+    }
+}
+  
